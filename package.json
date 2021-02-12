@@ -1,0 +1,17 @@
+{
+	"id":"com.moimz.minitalk.plugin.omok",
+	"icon":"xi xi-gamepad",
+	"title":{
+		"ko":"오목 플러그인"
+	},
+	"version":"1.0.0",
+	"description":{
+		"ko":"미니톡 참여자끼리 실시간 오목대국을 즐길 수 있습니다."
+	},
+	"author":{
+		"name":"Arzz",
+		"email":"arzz@arzz.com"
+	},
+	"homepage":"https://www.minitalk.io",
+	"language":"ko"
+}
